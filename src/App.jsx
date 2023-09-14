@@ -3,9 +3,9 @@ import './App.css'
 import './tailwind.css'
 import Header from './Components/Header'
 import HeroSection from './Components/HeroSection'
-import Categories from './Components/Categories'
-import Campaign from './Components/Campaign'
-import Favorites from './Components/Favorites'
+// import Categories from './Components/Categories'
+// import Campaign from './Components/Campaign'
+// import Favorites from './Components/Favorites'
 import MobileApp from './Components/MobileApp'
 import Cards from './Components/Cards'
 import Footer from './Components/Footer'
@@ -17,10 +17,10 @@ function App() {
     <>
     <Header />
     <HeroSection />
-    <Categories />
-    <Campaign />
-    <Favorites />
+    {/* <Categories /> */}
     <MobileApp />
+    {/* <Campaign /> */}
+    {/* <Favorites /> */}
     <Cards />
     <Footer />
     </>
