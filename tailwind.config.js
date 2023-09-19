@@ -13,6 +13,10 @@ export default {
       }),
       boxShadow: {
         "dogi": "rgba(93, 62, 188, 0.04) 0px 6px 24px"
+      },
+      textColor: {
+        "primary-text-color": "#5d3ebc",
+        "secondary-text-color": "#697488"
       }
     },
   },

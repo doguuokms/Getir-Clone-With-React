@@ -2,8 +2,8 @@
 
 const MobileApp = () => {
   return (
-    <section className="MobileApp relative flex justify-between sm:container sm:mx-auto mt-20 mb-20 ">
-      <div className="MobileAppCard bg-primary-brand-color flex justify-between w-full h-full pt-20 rounded-lg">
+    <section className="MobileApp relative flex justify-between sm:container sm:mx-auto mt-20 mb-20">
+      <div className="MobileAppCard bg-primary-brand-color flex justify-between w-full h-full pt-20 rounded-xl">
       <div className="flex flex-col pl-32">
         <h2 className="text-white font-bold text-3xl"> Getiri indirin!</h2>
         <span className="text-white text-xl font-semibold ">
